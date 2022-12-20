@@ -1,1 +1,1 @@
-puts 'chibi'
+puts 'chibi kute'
